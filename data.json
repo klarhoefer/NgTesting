@@ -1,14 +1,18 @@
 {
-    "customers": [
-        {
-            "id": 23,
-            "name": "Jürgen",
-            "dob": "1966-05-23"
-        },
-        {
-            "id": 42,
-            "name": "Walter",
-            "dob": "1972-11-11"
-        }
-    ]
+  "customers": [
+    {
+      "id": "23",
+      "name": "Jürgen",
+      "dob": "1966-05-23"
+    },
+    {
+      "id": "42",
+      "name": "Walter",
+      "dob": "1972-11-11"
+    },
+    {
+      "id": "55",
+      "name": "Schorse"
+    }
+  ]
 }
